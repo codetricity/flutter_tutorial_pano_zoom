@@ -8,6 +8,8 @@
 
 Code for tutorial to zoom 360 image using panorama_viewer package.
 
+* [video tutorial](https://youtu.be/vpdZpwJKmLo)
+
 Works on desktop and web.
 
 The mobile builds have pinch-to-zoom.  You don't need this
